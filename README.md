@@ -1,6 +1,6 @@
 ## Back-end - REST API
 
-I followed the tutorial at ( https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/#settingupanexpressjsserver ) starting at Setting up an Express.js server whitch was the minimum requirement for this project.
+I followed the tutorial at ( https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/#settingupanexpressjsserver ) starting at Setting up an Express.js server witch was the minimum requirement for this project.
 
 <img src="./screenshot.png">
 
